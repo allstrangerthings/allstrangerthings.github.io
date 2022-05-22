@@ -1,5 +1,4 @@
 # allstrangerthings.github.io
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>W3.CSS Template</title>
@@ -137,7 +136,6 @@ body {font-family: "Lato", sans-serif}
   </div>
 <h2 id="gtktc" class="w3-wide w3-center">Get to know the characters</h2>
   <!-- Charecter info section -->
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
